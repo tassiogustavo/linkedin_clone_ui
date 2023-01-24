@@ -1,16 +1,14 @@
-# recriando_linkedin
+# Linkedin Clone - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/214332018-430bc162-59c2-4f94-a4b4-a4a32ed1590b.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone do Linkedin foi feito em Dart + Flutter. Todos os dados foram pegos de modelo dentro do própio aplicativo. Foram criados Widgets personalizados para ser fiel a UI original.
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
